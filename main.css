@@ -148,3 +148,32 @@ a:hover {
   margin: 1.5rem auto;
   background-color: #444349;
 }
+
+/* =============================
+
+        PROGRAM STYLES
+
+=============================*/
+
+.program {
+  background: rgba(0, 0, 0, 0.6);
+  color: #d2ba87;
+  width: 100vw;
+}
+
+.program-wrapper {
+  text-align: left;
+}
+
+.program h2 {
+  margin-top: 1rem; /* To account for the unequal margins compared to the previous section. */
+  text-align: center;
+}
+
+.program p {
+  font-style: italic;
+}
+
+.program ul {
+  letter-spacing: .025rem;
+}
