@@ -177,3 +177,17 @@ a:hover {
 .program ul {
   letter-spacing: .025rem;
 }
+
+/* =============================
+
+        GIFTS STYLES
+
+=============================*/
+
+.gifts img {
+  height: 7.5rem;
+}
+
+.gifts p:last-child {   /* To even out the bottom and top margins of this section. */
+  margin-bottom: 0;
+}
